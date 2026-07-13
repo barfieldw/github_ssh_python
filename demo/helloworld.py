@@ -1,3 +1,3 @@
-import pandas as np
+name = "WB_Test"
 
-print('Hello, World!')
+print(name)
